@@ -1,4 +1,12 @@
-<!--  Teaching kids how to code throu different programs sponsored by  the goverment  -->
+MonocuCode // Pesonal Website
+
+# Description
+
+ Teaching kids how to code throu different programs sponsored by  the goverment and the private sector. 
+
+
+# Contact 
+email: juancarlosfield@gmail.com
 
 ## Starting Your Personal Site Project
 
@@ -24,10 +32,12 @@ Throughout this course you will build a personal website project adding to it ea
 
 6. Double click on index.html to open it and then type `Hello World` into the page and save
 
-<!-- DONE !!! -->
+<!-- DONE !!! <-->
 7. Next in Terminal `git add index.html README.md`, and `git commit -m "first commit"`
 
 8. In your browser go to Github and click the plus symbol in the top navigation and select New Repository. Name the Repository the same name as your folder name for the site like jakes-portfolio-site or whatever yours is called. then click create repository.
+
+<!-- DONE !!! -->
 
 9. Copy either the ssh or https link of the repository on the next screen.
 
