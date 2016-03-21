@@ -1,4 +1,4 @@
-
+<!--  Teaching kids how to code throu different programs sponsored by  the goverment  -->
 
 ## Starting Your Personal Site Project
 
@@ -12,12 +12,19 @@ Throughout this course you will build a personal website project adding to it ea
 
 3. Then `touch index.html` to create an index page and `touch README.md` to create a readme file.
 
+<!-- DONE !!! -->
+
+
 4. Then `subl .` to open the folder in Sublime Text.
 
 5. Double click README.md and type a quick description covering what your site will be about.
 
-6. Double click on index.html to open it and then type `Hello World` into the page and save.
 
+<!-- DONE !!! -->
+
+6. Double click on index.html to open it and then type `Hello World` into the page and save
+
+<!-- DONE !!! -->
 7. Next in Terminal `git add index.html README.md`, and `git commit -m "first commit"`
 
 8. In your browser go to Github and click the plus symbol in the top navigation and select New Repository. Name the Repository the same name as your folder name for the site like jakes-portfolio-site or whatever yours is called. then click create repository.
